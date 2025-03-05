@@ -1,0 +1,4 @@
+rootProject.name = 'JJL-Framework'
+include 'jjl-core'
+include 'jjl-component'
+
